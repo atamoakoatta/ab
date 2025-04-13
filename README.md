@@ -2,7 +2,24 @@
 
 # 👋 Hi there, I’m Abraham Tetteh Amoako-Atta
 
-I am a Business Analytics graduate student at William & Mary with a unique blend of experience in banking, agribusiness, and project management. Certified in AI, Google Data Analytics, and PMP, he leverages tools like Python, SQL, and Tableau to transform data into actionable business insights. Beyond analytics, Abraham is a passionate saxophonist and AI explorer, using tech to tell stories — from cultural festivals to AI-generated music. He’s driven by the power of data storytelling and its potential to shape smarter, more human-centered decisions.
+🎓 Business Analytics Grad Student @ William & Mary  
+📊 Data-driven problem solver | PMP-Certified Project Manager  
+🎷 Saxophonist | AI Explorer | Storyteller
+
+---
+
+## 👨🏽‍💻 What I Do
+- Use Python, SQL, and Tableau to find insights in messy data  
+- Apply optimization and machine learning to solve real-world problems  
+- Blend business strategy with technical know-how to drive results  
+- Tell stories with data, whether through dashboards or AI scripts  
+
+---
+
+## 🌱 Currently Exploring
+- Reinforcement Learning in real-world business environments  
+- AI in music production and cultural storytelling  
+- Opportunities in analytics, AI product strategy, and tech for social impact 
 
 ## 🎯 Let’s Connect!
 📫 amoakoattaabraham@gmail.com  
